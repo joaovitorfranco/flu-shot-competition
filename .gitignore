@@ -110,4 +110,4 @@ venv.bak/
 *.pkl
 
 # datafiles
-/results
+/results/*.csv
