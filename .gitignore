@@ -112,3 +112,4 @@ venv.bak/
 # datafiles
 results/*
 joblib/*
+grid_serch_params.py
